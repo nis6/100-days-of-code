@@ -21,6 +21,16 @@ I'll be doing two coding tasks
 
 ---
 
+### Day 4: January 8, 2022 
+  
+**Today's Progress**: put in the hours, no progress
+
+**Thoughts:** read a lot but no result so far, exhausted rn, trying again tom.
+
+**What I learned:**  A lot tho
+
+**Link to work:** [A form](https://github.com/nis6/Mini-Projects/tree/master/Form/intro-component-with-signup-form-master/intro-component-with-signup-form-master)
+
 ### Day 3: January 8, 2022 
   
 **Today's Progress**: A frontend mentor challenge(70%). Idea was to get the basics clear and do more advance stuff with fundamentals.
@@ -31,7 +41,7 @@ I'll be doing two coding tasks
 
 **What I learned:**  
 
-**Link to work:** [A form](https://github.com/nis6/Mini-Projects/tree/master/Form/intro-component-with-signup-form-master/intro-component-with-signup-form-master)
+**Link to work:** [My project](https://github.com/nis6/Mini-Projects/tree/master/Form/intro-component-with-signup-form-master/intro-component-with-signup-form-master)
 
 ---
 
