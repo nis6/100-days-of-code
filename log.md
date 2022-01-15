@@ -5,9 +5,10 @@ I'll be doing two coding tasks
 - DSA or a Test/Leetcode
 - My Projects
 
-### Aim: Things I wish learn during this time
+### Aim: Things I wish to learn during this time
 
- - [ ] ReactJS               
+ - [ ] ReactJS            
+ - [ ] React Motion   
  - [ ] Redux                 
  - [ ] NextJs                
  - [ ] firebase              
